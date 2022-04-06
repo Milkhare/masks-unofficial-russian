@@ -1,4 +1,4 @@
-# Masks: A New Generation (Unofficial) Revised На русском!
+# Masks: A New Generation (Unofficial) На русском!
 
 Этот модуль содержит ходы для игры Masks: A New Generation для использования с системой Foundry VTT generic PbtA System (https://gitlab.com/asacolips-projects/foundry-mods/pbta). Вы можете установить данную систему по этой ссылке: https://gitlab.com/asacolips-projects/foundry-mods/pbta/-/jobs/artifacts/beta/raw/system.json?job=build-beta
 
