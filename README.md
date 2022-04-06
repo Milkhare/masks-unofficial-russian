@@ -4,9 +4,9 @@
 
 Содержание этого модуля взято из **Masks: A New Generation** от **Magpie Games**. Вы можете приобрести PDF по адресу: https://magpiegames.com/masks/
 
-Эта доработанная версия модуля основана на оригинале, созданном brunocalado (https://github.com/brunocalado/masks-newgeneration-unofficial) и версии  CyricPL (https://github.com/CyricPL/masks-newgeneration-unofficial) в которой был немного изменен текст ходов и добавлена уникальная иконка к каждому ходу с сайтаgame-icons.net (https://game-icons.net/). В данной версии модуля, вы найдёте неофициальный перевод текста ходов и некоторые дополнения, сделанные для улучшения игрового опыта в Маски на русском языке.
+Эта доработанная версия модуля основана на версии  CyricPL (https://github.com/CyricPL/masks-newgeneration-unofficial). В данной версии модуля, вы найдёте неофициальный перевод текста ходов и некоторые дополнения, сделанные для улучшения игрового опыта в Маски на русском языке.
 
-В этой версии, Compendium Folders (https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json) всё ещё является необходимым для использования модуля, если он у вас не установлен, то при установке системы Foundry потребует от вас установить Compendium Folders. 
+Compendium Folders (https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json) всё ещё является необходимым для использования модуля, если он у вас не установлен, то при установке системы Foundry потребует от вас установить Compendium Folders. 
 
 <p align="center">
   <img width="700" src="images/guide/masks.jpg">
@@ -15,25 +15,24 @@
 # Установка
 
 ## Ручная установка
-1. Откройте **modules** и используйте ссылку: https://raw.githubusercontent.com/CyricPL/masks-newgeneration-unofficial-revised/main/module.json
+1. Откройте **modules** и используйте ссылку: https://raw.githubusercontent.com/Milkhare/masks-unofficial-russian/main/module.json
 
-# Templates
-You need to set up a template before import the compendium. There are two you can use:
-- Normal sheet: https://raw.githubusercontent.com/CyricPL/masks-newgeneration-unofficial-revised/main/templates/masks.txt
-- Harm sheet: https://raw.githubusercontent.com/CyricPL/masks-newgeneration-unofficial-revised/main/templates/masks_harm.txt
+# Шаблоны
+Перед импортом компендиума необходимо установить шаблон. Вы можете использовать два шаблона:
+- Normal sheet: https://raw.githubusercontent.com/Milkhare/masks-unofficial-russian/main/templates/masks.txt
+- Harm sheet: https://raw.githubusercontent.com/Milkhare/masks-unofficial-russian/main/templates/masks_harm.txt
 
-# How To
+# Что с этим делать?
+1. Выберите шаблон и загрузите его в настройки вашей игры PbtA.
+2. Активируйте модуль.
+3. Импортируйте нужный компендиум в ваш мир.
+4. Переместите необходимые папки на лист персонажа.
 
-1. Choose a template and load that template in the settings of your PbtA game.
-2. Activate the module.
-3. Import the compendium you want. Right click it and Import all Content.
-4. Drag the Folder Basic and Adult to an Actor Sheet.
-
-# More Instructions
-There is a journal with more instructions inside the module. Load the module and search the compendiuns for it.
+# Больше интрукций
+Внутри есть журнал, в котором вы можете найти больше инструкций для комфротной игры в Маски.
 
 # Changelog
-You can check changes at [CHANGELOG](CHANGELOG.md)
+Вы можете посмотреть историю изменений в [CHANGELOG](CHANGELOG.md)
 
 # License
 The entire text of Masks is released under a Creative Commons Attribution 4.0 International license. https://creativecommons.org/licenses/by/4.0/
